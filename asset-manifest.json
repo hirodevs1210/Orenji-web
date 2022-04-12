@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Orenji-web/static/css/main.167b9bb1.css",
+    "main.js": "/Orenji-web/static/js/main.81ed0fa1.js",
+    "static/js/787.b01ea022.chunk.js": "/Orenji-web/static/js/787.b01ea022.chunk.js",
+    "index.html": "/Orenji-web/index.html",
+    "main.167b9bb1.css.map": "/Orenji-web/static/css/main.167b9bb1.css.map",
+    "main.81ed0fa1.js.map": "/Orenji-web/static/js/main.81ed0fa1.js.map",
+    "787.b01ea022.chunk.js.map": "/Orenji-web/static/js/787.b01ea022.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.167b9bb1.css",
+    "static/js/main.81ed0fa1.js"
+  ]
+}
